@@ -1,0 +1,42 @@
+/* Center the search container */
+.container {
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+    background-color: rgb(201, 32, 74);
+    border: 1px solid #380134;
+    border-radius: 5px;
+}
+
+/* Increase the width and height of the search input */
+#searchInput {
+    padding: 15px;
+    margin: 10px;
+    font-weight: bolder;
+    border: 4px violet solid;
+    color: green;
+    width: 60%; /* Adjust to your preference */
+    height: 50px; /* Adjust to your preference */
+}
+
+/* Center the search button and adjust its size */
+#searchButton {
+    padding: 15px 30px;
+    background-color: #6200ff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bolder;
+    width: 150px; /* Adjust to your preference */
+    height: 50px; /* Adjust to your preference */
+}
+
+/* Change the navbar elements' colors */
+.navbar-nav .nav-link {
+    color: goldenrod; /* Change to your desired color */
+}
+
+.navbar-nav .nav-link:hover {
+    color: blue; /* Change to your desired color on hover */
+}
